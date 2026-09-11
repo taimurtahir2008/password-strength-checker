@@ -10,6 +10,6 @@ how to run it:
 
 Someone runs python3 password_checker.py in a terminal, then types a password when asked. Nothing gets saved anywhere.
 
-why you built it: 
+why I built it: 
 
-Combines your two interests (software engineering and cyber security) in one project, using a real security concept rather than just theory.
+Combines my interest in software engineering with cyber security in one project, using a real security concept rather than just theory. It shows how the two fields interact and have similarities.
